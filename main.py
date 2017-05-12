@@ -1,6 +1,9 @@
 import tkinter as tk
-
+from class_address import Address
+from class_school import School
 from class_student import Student
+from class_teacher import Teacher
+from class_cours import Course
 from tkinter import *
 from tkinter import ttk
 
