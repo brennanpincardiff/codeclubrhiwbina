@@ -16,4 +16,4 @@ class Course:
         return ""
 
     def display(self):
-        return str(self.course_id)+" "+self.course_name+" "+str(self.course_length)+" "+str(self.fail_grade)+" "+str(self.pass_grade)
+        return str(self.course_id)+" "+str(self.course_name)+" "+str(self.course_length)+" "+str(self.fail_grade)+" "+str(self.pass_grade)

@@ -9,4 +9,4 @@ class Address:
         return ""
 
     def display(self):
-        return self.address_line_1+" "+self.address_line_2+" "+self.address_line_3+" "+self.address_line_4
+        return self.address_line_1+" "+self.address_line_2+" "+self.address_line_3+" "+self.address_line_4+" "+self.postcode

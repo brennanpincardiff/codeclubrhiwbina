@@ -10,7 +10,7 @@ class Teacher:
         self.name = name
         self.age = age
         self.address = address
-        self.years_of_service
+        self.years_of_service = years_of_service
 
     def checkErrors(self):
         return ""
