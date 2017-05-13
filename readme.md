@@ -1,1 +1,1 @@
-This repositrt js for code club usage. Its for a small tutorial on git pychamr colabritive working and understaning OO concepts in pythonh 
+This repository js for Code Club usage. It's for a small tutorial on git pychamr collaborative working and understanding OO concepts in python 
